@@ -16,7 +16,7 @@
       text-align: center;
     }
     p {
-      text-align: left;
+      text-align: center;
     }
     .social-icons {
       display: flex;
