@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shampashaw&show_icons=true&locale=en" alt="shampashaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shampashaw&" alt="shampashaw" /></p>
+[![ShampaShaw's GitHub | Languages Over Time](https://stats.quine.sh/ShampaShaw/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShampaShaw)
